@@ -1,5 +1,5 @@
 # Shopkeeper
-First python project
+First python project (2019)
 
 A python program to keep track of stocks sold via user input in terminal
 
@@ -22,3 +22,4 @@ end
 - Quit program
 
 Note: Since this is my first python program, all input are assumed to be in correct format/data type
+
