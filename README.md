@@ -18,4 +18,7 @@ next
 - If current day's sales is fewer than previous day's sales by 10%, price of the stock will be reduced by 10 cents (0.1), 
   until the price is at the minimum price
 
+end
+- Quit program
+
 Note: Since this is my first python program, all input are assumed to be in correct format/data type
